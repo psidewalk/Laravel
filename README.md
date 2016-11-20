@@ -1,4 +1,4 @@
-Laravel 5+ Apps
+Laravel 5.3+ Apps
 
 This repo will save, update and sharing Laravel experience - with Bootstrap.
 
