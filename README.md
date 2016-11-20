@@ -1,7 +1,7 @@
-Laravel 5.3+ Apps
+Link do tutorial : https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/
 
-This repo will save, update and sharing Laravel experience - with Bootstrap.
+Acrescentando autenticação a uma app Laravel 5.3 com o middleware padrão do Laravel
 
-Vue.js and D3.js acting on front-end of apps.
+Personagens de Game of Thrones
 
 
