@@ -1,7 +1,7 @@
-Link do tutorial : https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/
+Tutorial's link : https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/
 
-Acrescentando autenticação a uma app Laravel 5.3 com o middleware padrão do Laravel
+Adding authentication to a 5.3 Laravel App with the pattern middleware
 
-Personagens de Game of Thrones
+Game of Thrones characters
 
 
